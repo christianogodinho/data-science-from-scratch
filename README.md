@@ -1,3 +1,10 @@
+## Initialization
+
+- Create a venv in your machine
+- Install libraries such as matplotlib and PyQt5(solves "no ploting" problem) with pip3
+
+##
+
 Data Science from Scratch
 =========================
 
